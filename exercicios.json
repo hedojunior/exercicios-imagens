@@ -1,0 +1,54 @@
+[
+    {
+        "categoria": "Musculação",
+        "descricao": "Exercícios para fortalecer seus grupos musculares."
+        "exercicios": [
+            {
+                "id": 1,
+                "nome": "Halteres",
+                "imagem": "TODO:",
+                "opcoes": [
+                    "Iniciante (5 repetições)",
+                    "Intermediário (10 repetições)",
+                    "Avançado (15 repetições)"
+                ]
+            },
+            {
+                "id": 2,
+                "nome": "Remada",
+                "imagem": "TODO:",
+                "opcoes": [
+                    "Iniciante (15 repetições)",
+                    "Intermediário (25 repetições)",
+                    "Avançado (40 repetições)"
+                ]
+            }
+        ]
+    },
+    {
+        "categoria": "Aeróbicos",
+        "descricao": "Exercícios para queimar calorias e trabalhar com todo o corpo."
+        "exercicios": [
+            {
+                "id": 1,
+                "nome": "Prancha",
+                "imagem": "TODO:",
+                "opcoes": [
+                    "Iniciante (10 minutos)",
+                    "Intermediário (20 minutos)",
+                    "Avançado (30 minutos)"
+                ]
+            },
+            {
+                "id": 2,
+                "nome": "Flexões",
+                "imagem": "TODO:",
+                "opcoes": [
+                    "Iniciante (10 repetições)",
+                    "Intermediário (15 repetições)",
+                    "Avançado (20 repetições)"
+                ]
+            }
+        ]
+    }
+]
