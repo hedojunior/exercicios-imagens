@@ -6,10 +6,10 @@
             {
                 "id": 1,
                 "nome": "Halteres",
-                "imagem": "TODO:",
+                "imagem": "https://raw.githubusercontent.com/hedojunior/exercicios-imagens/main/007-dumbbell.png",
                 "opcoes": [
-                    "Iniciante (5 repetições)",
-                    "Intermediário (10 repetições)",
+                    "Iniciante (9 repetições)",
+                    "Intermediário (12 repetições)",
                     "Avançado (15 repetições)"
                 ]
             },
